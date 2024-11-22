@@ -1,3 +1,6 @@
+---
+[![](https://visitcount.itsvg.in/api?id=sargeff&icon=0&color=6)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🪄 Currently Working on  -<br>Vfx Studio - Brand for visual effect design<br>Sync  - Pc Checking Tool<br>Web App
 
@@ -15,7 +18,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sargeff&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=sargeff&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
