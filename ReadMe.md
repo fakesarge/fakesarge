@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarge
+
+[![](https://visitcount.itsvg.in/api?id=sargeff&icon=0&color=6)](https://visitcount.itsvg.in) 
 =============================================================================================================================
 
 I am a student currently working on my own projects. Information Security Top 50 CyberPatriot
