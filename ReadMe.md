@@ -13,11 +13,9 @@
 [![](https://visitcount.itsvg.in/api?id=sargeff&icon=0&color=1)](https://visitcount.itsvg.in) 
 =============================================================================================================================
 
-I am a student currently working on my own projects. Information Security Top 50 CyberPatriot
+I am a student currently working on my own projects. 
+Information Security
 
-* 🌍  I'm based in LA California
-* 🚀  I'm currently working on [sync](http://syncpc.cc)
-* 🧠  I'm learning AWS
 
 ### Skills
 
