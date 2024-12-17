@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/1201255976683196426" target="_blank">
+  <a href="[https://discord.com/users/1201255976683196426](https://private-avatars.githubusercontent.com/u/170584803?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzOTY4NDAsIm5iZiI6MTczNDM5NTY0MCwicGF0aCI6Ii91LzE3MDU4NDgwMyJ9.wRRFfC69P-YLRZwWKCVQSK_TiUiS-6jeX836zi76PZ0&v=4)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
