@@ -2,14 +2,15 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **syncpc.cc**
- 
- 🌱 I’m currently learning **AWS, Cisco Info Sec, Cybersecutiry**
+
+ Major - cybersecurity
+ I’m currently learning **AWS, Security+ **
+ Certs - CISCO Intro to cyber-sec
  
  </div>
 
  <div align="center"> 
-  <a href="sargentxd1@gmail.com">
+  <a href="support@vfxstudio.store">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
