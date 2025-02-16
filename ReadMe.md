@@ -23,36 +23,8 @@
 
 <div align="center">
   <div align="center">
-    <div>
-      <a href="https://github.com/Sobhan-SRZA?tab=followers" target="_blank">
-         <img src="https://img.shields.io/github/followers/Sobhan-SRZA?logo=github&style=for-the-badge">
-      </a>
-      <a href="https://github.com/Sobhan-SRZA/" target="_blank">
-         <img src="https://img.shields.io/github/stars/Sobhan-SRZA?logo=github&style=for-the-badge">
-      </a>
-      <a href="https://github.com/Sobhan-SRZA/" target="_blank">
-         <img src="https://komarev.com/ghpvc/?username=Sobhan-SRZA&logo=github&style=for-the-badge">
-      </a>
-    </div>
-    <div>
-      <a href="https://www.youtube.com/@mr_sinre?app=desktop&sub_confirmation=1" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UCqDgeKYxedZMS1Gm2WNJ3qg?logo=youtube&logoColor=red&style=for-the-badge">
-      </a>
-      <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
-        <img src="https://img.shields.io/twitch/status/sobhan_srza?color=purple&logo=twitch&style=for-the-badge">
-      </a>
-      <a href="http://sobhan.epizy.com" target="_blank">
-        <img src="https://img.shields.io/website.svg?down_color=red&down_message=down&up_color=green&up_message=up&url=http://sobhan.epizy.com&style=for-the-badge">
-      </a>
-     </div>
-     <div>
-      <a href="https://discord.com/invite/xh2S2h67UW" target="_blank">
-        <img src="https://badgen.net/discord/members/xh2S2h67UW?style=for-the-badge">
-      </a>
-      <a href="https://discord.com/invite/54zDNTAymF" target="_blank">
-        <img src="https://badgen.net/discord/members/54zDNTAymF?style=for-the-badge">
-      </a>
-    </div>
+
+
   </div>
   <div align="center">
     <div>
