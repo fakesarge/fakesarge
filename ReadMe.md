@@ -5,7 +5,6 @@
  </div>
  <br>
  <div align="center">
- I’m currently learning AWS, Security+
    </div>
 <br>
   <div align="center">
