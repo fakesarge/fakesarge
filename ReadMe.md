@@ -4,7 +4,7 @@
 
 <h1>fakesarge</h1>
 
-**Cybersecurity Major** • Full-Stack Developer • Visual Technologist  
+**Cybersecurity Major** • Developer • Visual Technologist  
 [🌐 74hrs.store](http://74hrs.store)  
 📧 [support@vfxstudio.store](mailto:support@vfxstudio.store)
 
