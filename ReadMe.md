@@ -15,6 +15,9 @@ Cybersecurity student with a passion for systems, code, and design.
 I explore the space between front-end aesthetics and back-end logic — all built with security in mind.
 
 ---
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="00436642-ebd0-464a-933b-76a33e53e2a8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7cea7a10-3bd6-4ec1-adb2-5b13bb1f5b8a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="716253cd-7854-4c66-8cc9-9cc9d24d9b5e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### 🛠️ Tech Stack
 
