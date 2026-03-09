@@ -98,6 +98,7 @@ I explore the space between front-end aesthetics and back-end logic — all buil
 
 ---
 <p align="left"> <a href="#" target="_blank"> <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="90" alt="Intro To Cybersecurity" /> </a> <a href="#" target="_blank"> <img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="90" alt="Cyber Threat Managment" /> </a> <a href="#" target="_blank"> <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="90" alt="Ethical Hacker" /> </a> </p> </td> </tr>
+<img src="https://tryhackme-badges.s3.amazonaws.com/wakeme.png" alt="Your Image Badge" />
 
 </p>
 <p align="center">
