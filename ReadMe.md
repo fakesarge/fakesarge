@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/zZ6J8d7epM8AAAAC/dedsec.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/_xy4hrnzL8EAAAAd/dedsec.gif"  />
 </div>
 
 ###
