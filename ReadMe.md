@@ -134,5 +134,11 @@ I explore the space between front-end aesthetics and back-end logic — all buil
    <a href="#" target="_blank"><img src="https://assets.tryhackme.com/img/badges/soc-sim-100-percent-true-positive-rate.png" height="90" alt="thm"  /></a>
 </p>
 
+###
 
+<h2 align="left"></h2>
+
+###
+
+<img width="764" height="426" alt="image" src="https://github.com/user-attachments/assets/9fb4601f-cb7d-4447-b8b0-1a7d4ca43371" />
 
