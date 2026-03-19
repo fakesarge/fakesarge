@@ -114,3 +114,16 @@ I explore the space between front-end aesthetics and back-end logic — all buil
 • Vulnerability Scanning
 
  </tr>
+
+ ###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=90&descAlignY=50&textBg=false&theme=onedark"  />
+</div>
+
+<h2 align="left">THM Badges </h2>
+
+###
+  <img width="22" />
+  <img src="https://assets.tryhackme.com/img/badges/firstfour.png" height="40" alt="thm"  />
+
