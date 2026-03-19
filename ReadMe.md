@@ -142,5 +142,6 @@ I explore the space between front-end aesthetics and back-end logic — all buil
 
 ###
 
-<img width="764" height="426" alt="image" src="https://github.com/user-attachments/assets/9fb4601f-cb7d-4447-b8b0-1a7d4ca43371" />
+<img width="530" height="557" alt="image" src="https://github.com/user-attachments/assets/2aca2d66-abc0-4f33-a219-86dc08569095" />
+
 
