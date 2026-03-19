@@ -124,14 +124,15 @@ I explore the space between front-end aesthetics and back-end logic — all buil
 <h2 align="left">THM Badges </h2>
 
 ###
-  <img src="https://assets.tryhackme.com/img/badges/firstfour.png" height="90" alt="thm"  />
-  <img src="https://assets.tryhackme.com/img/badges/streak3.png" height="90" alt="thm"  />
-  <img src="https://assets.tryhackme.com/img/badges/streak7.png" height="90" alt="thm"  />
-  <img src="https://assets.tryhackme.com/img/badges/linux.png" height="90" alt="thm"  />
-  <img src="https://assets.tryhackme.com/img/badges/soc-sim-first-alert-closed.png" height="90" alt="thm"  />
-  <img src="https://assets.tryhackme.com/img/badges/soc-sim-first-scenario-completed.png" height="90" alt="thm"  />
-  <img src="https://assets.tryhackme.com/img/badges/soc-sim-100-percent-true-positive-rate.png" height="90" alt="thm"  />
-
+<p align="left"><a href="#" target="_blank">
+  <img src="https://assets.tryhackme.com/img/badges/firstfour.png" height="90" alt="thm"  /></a>
+   <a href="#" target="_blank"><img src="https://assets.tryhackme.com/img/badges/streak3.png" height="90" alt="thm"  /></a>
+   <a href="#" target="_blank"><img src="https://assets.tryhackme.com/img/badges/streak7.png" height="90" alt="thm"  /></a>
+   <a href="#" target="_blank"><img src="https://assets.tryhackme.com/img/badges/linux.png" height="90" alt="thm"  /></a>
+   <a href="#" target="_blank"><img src="https://assets.tryhackme.com/img/badges/soc-sim-first-alert-closed.png" height="90" alt="thm"  /></a>
+   <a href="#" target="_blank"><img src="https://assets.tryhackme.com/img/badges/soc-sim-first-scenario-completed.png" height="90" alt="thm"  /></a>
+   <a href="#" target="_blank"><img src="https://assets.tryhackme.com/img/badges/soc-sim-100-percent-true-positive-rate.png" height="90" alt="thm"  /></a>
+</p>
 
 
 
