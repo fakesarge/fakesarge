@@ -124,6 +124,5 @@ I explore the space between front-end aesthetics and back-end logic — all buil
 <h2 align="left">THM Badges </h2>
 
 ###
-  <img width="22" />
-  <img src="https://assets.tryhackme.com/img/badges/firstfour.png" height="40" alt="thm"  />
+  <img src="https://assets.tryhackme.com/img/badges/firstfour.png" height="90" alt="thm"  />
 
