@@ -1,5 +1,5 @@
 <div align="center">
-![download](https://github.com/user-attachments/assets/629a23ba-fee6-4830-873d-bfd98576ad08)
+https://github.com/user-attachments/assets/32329b49-ca6b-4d79-8fb0-db1edf5fc006
 
 
 <h2 align="left">About me</h2>
