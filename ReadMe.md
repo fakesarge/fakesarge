@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1920" height="300" alt="download" src="https://github.com/user-attachments/assets/e5f06c0e-f766-4964-87ee-9696361dcfda" />
+![download](https://github.com/user-attachments/assets/629a23ba-fee6-4830-873d-bfd98576ad08)
 
 
 <h2 align="left">About me</h2>
