@@ -1,6 +1,6 @@
 <div align="center">
   <img width="1920" height="300" alt="download" src="https://github.com/user-attachments/assets/e5f06c0e-f766-4964-87ee-9696361dcfda" />
-###
+
 
 <h2 align="left">About me</h2>
 
