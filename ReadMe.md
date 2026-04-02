@@ -1,6 +1,5 @@
 <div align="center">
-https://github.com/user-attachments/assets/32329b49-ca6b-4d79-8fb0-db1edf5fc006
-
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/170584803/573312153-32329b49-ca6b-4d79-8fb0-db1edf5fc006.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260402%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260402T224114Z&X-Amz-Expires=300&X-Amz-Signature=17c4d0ffadab331c93ccedb8dd1d2640bf72b7ed5705f8dc623a9923b97c9be3&X-Amz-SignedHeaders=host"  />
 
 <h2 align="left">About me</h2>
 
