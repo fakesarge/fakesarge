@@ -135,17 +135,7 @@ I explore the space between front-end aesthetics and back-end logic — all buil
 
 ###
 ###
-<img width="764" height="426" alt="image" src="https://github.com/user-attachments/assets/e4f25271-80fe-438c-abed-b28a7818d71a" />
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
-   <a href="#" target="_blank">
-      <img src="https://tryhackme-production-skills-matrix.s3.eu-west-1.amazonaws.com/kernels-1775322866868.png" height="250" alt="thm" />
-   </a>
-   <img src="https://github.com/user-attachments/assets/c1ba2a9b-fdd8-43a1-ae8d-6fc0aadcaa6f" width="764" height="250" alt="image" />
-   <a href="#" target="_blank">
-      <img src="https://tryhackme-production-skills-matrix.s3.eu-west-1.amazonaws.com/kernels-1775322964321.png" height="250" alt="thm" />
-   </a>
-</div>
 
 
 
