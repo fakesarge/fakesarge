@@ -137,6 +137,7 @@ I explore the space between front-end aesthetics and back-end logic — all buil
 ###
 
 <div align="center">
-<img align="center" width="530" height="557" alt="image" src="https://github.com/user-attachments/assets/2aca2d66-abc0-4f33-a219-86dc08569095" />
+   <a href="#" target="_blank"><img src="https://tryhackme-production-skills-matrix.s3.eu-west-1.amazonaws.com/kernels-1775322866868.png" height="90" alt="thm"  /></a>
+
 </div>
 
